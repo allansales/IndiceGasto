@@ -1,0 +1,11 @@
+Todas as bibliotecas necessárias para executar o projeto são o:
+*numpy
+*pandas
+*scipy
+*IPython
+*sklearn
+*seaborn
+*matplotlib
+*sets
+
+Todas as bibliotecas foram utilizadas durante o Nanodegree ou são naturais do python/pandas.
