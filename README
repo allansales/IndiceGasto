@@ -1,4 +1,4 @@
-Todas as bibliotecas necessárias para executar o projeto são o:
+As bibliotecas necessárias para executar o projeto são:
 *numpy
 *pandas
 *scipy
@@ -8,4 +8,4 @@ Todas as bibliotecas necessárias para executar o projeto são o:
 *matplotlib
 *sets
 
-Todas as bibliotecas foram utilizadas durante o Nanodegree ou são naturais do python/pandas.
+Todas as bibliotecas foram utilizadas durante o Nanodegree e/ou são naturais do python/pandas.
